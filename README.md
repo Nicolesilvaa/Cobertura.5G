@@ -117,7 +117,10 @@
 - [Yuri Chagas](https://github.com/Snorlaxch)
 
 ## Demonstração: 
+> Os pontos amarelos representam as antenas. Quando clicamos no mapa realizamos uma busca. Caso os pontos buscados estejam no alcance de uma antena eles ficam verde, caso contrário, ficam vermelhos. Além disso, o programa sempre retorna a antena mais próxima do ponto buscado, idependente se o ponto está ou não dentro do alcance da antena.
+>  As linhas que aparecem no final representam a estrutura da árvore binária utilizada na solução do problema. 
 
+https://github.com/user-attachments/assets/7db7de2c-6d65-484e-91a9-129dc0b4ad4e
 
 # Referências 📚
 
